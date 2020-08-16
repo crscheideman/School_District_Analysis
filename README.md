@@ -8,9 +8,9 @@
   - The percentage of students passing all dropped by 1%
   - The average reading score stayed the same, the average math score dropped by 0.1%
   
-   !["Original District Summary](resources/district_summary.png)
+   !["Original District Summary](Resources/District_Summary.png)
    
-   ![Redone District Summary](resources/district_summary_redone.png)
+   ![Redone District Summary](Resources/District_Summary_Redone.png)
    
    
 * How is the school summary affected
